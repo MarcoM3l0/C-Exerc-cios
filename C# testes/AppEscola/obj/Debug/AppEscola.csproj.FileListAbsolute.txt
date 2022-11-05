@@ -1,0 +1,12 @@
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\bin\Debug\AppEscola.exe.config
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\bin\Debug\AppEscola.exe
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\bin\Debug\AppEscola.pdb
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.csproj.AssemblyReference.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.csproj.SuggestedBindingRedirects.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.FrmPrincipal.resources
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.Properties.Resources.resources
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.csproj.GenerateResource.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.csproj.CoreCompileInputs.cache
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.exe
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.pdb
+D:\DADOS\Usuario\Desktop\dev\C#\C# testes\AppEscola\obj\Debug\AppEscola.frmLogin.resources
